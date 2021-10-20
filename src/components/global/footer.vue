@@ -1,6 +1,6 @@
 <template lang="html">
   <div class="footer">
-    <h1>hhhhhhhh</h1>
+    <div>&copy; 2021 Eman Gamal.</div>
   </div>
 </template>
 
@@ -10,4 +10,12 @@ export default {
 };
 </script>
 
-<style lang="css" scoped></style>
+<style lang="css" scoped>
+.footer {
+  padding: 40px;
+  text-align: center;
+  background: #ddd;
+  margin-top: 60px;
+  color: #ef7b8c;
+}
+</style>

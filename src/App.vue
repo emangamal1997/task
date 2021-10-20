@@ -1,7 +1,6 @@
 <template>
   <div id="app">
     <AppHeader />
-
     <router-view />
     <AppFooter />
   </div>
@@ -18,5 +17,3 @@ export default {
   }
 };
 </script>
-
-<style></style>
